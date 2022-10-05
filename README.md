@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
+![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 <h1 align="center">Hi 👋, I'm Jenny Chacón</h1>
 <h3 align="center">I´m a child educator learning to code !!</h3>
 
@@ -9,7 +9,7 @@
 - 📫 How to reach me **jpchacond1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img   align=“right” alt=“coding” width=“400”  src=“https://nuestromejordia.com/wp-content/uploads/2022/05/construccion.gif”>
+<img   align="right"  width="400"  src="https://nuestromejordia.com/wp-content/uploads/2022/05/construccion.gif">
 <p align="left">
 <a href="https://fb.com/paola_chacon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paola_chacon" height="30" width="40" /></a>
 <a href="https://instagram.com/@issocialfilipa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@issocialfilipa" height="30" width="40" /></a>
