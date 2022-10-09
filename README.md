@@ -7,10 +7,10 @@
     src="https://komarev.com/ghpvc/?username=jpchacond&label=Profile%20views&color=0e75b6&style=flat"
     alt="jpchacond"
   />
-</p,
+</p>
 
-- 🌱 I’m cuerently learning **Full-stack web developmen, in Le wagon** - 📫 How
-to reach me **jpchacond1@gmail.com**
+- 🌱 I’m cuerently learning  web development at <a href="https://www.lewagon.com/de" target="_blanket">Le wagon</a>
+- 📫 How to reach me **jpchacond1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img
