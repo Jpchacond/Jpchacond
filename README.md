@@ -9,7 +9,7 @@
   />
 </p>
 
-- 🌱 I’m cuerently learning  web development at <a href="https://www.lewagon.com/de" target="_blanket">Le wagon</a>
+- 🌱 Graduated at <a href="https://www.lewagon.com/de" target="_blanket">Le wagon</a> in Full-stack Development
 - 📫 How to reach me **jpchacond1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +28,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/@issocialfilipa" target="blank"
+  <a href="https://www.instagram.com/issocialfilipa/" target="blank"
     ><img
       align="center"
       id="instagram"
