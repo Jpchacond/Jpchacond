@@ -13,11 +13,7 @@
 - 📫 How to reach me **jpchacond1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img
-  align="“right”"
-  width="“400”"
-  src="https://media2.giphy.com/media/H3ZUIgnoHykSVP8ZBK/giphy.gif?cid=790b761195baa0a7f2040be5c475a34fecc96a4309790292&rid=giphy.gif&ct=s"
-/>
+
 <p align="left">
   <a href="https://fb.com/paola_chacon" target="blank"
     ><img
@@ -112,22 +108,6 @@
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jpchacond&show_icons=true&locale=en&layout=compact"
-    alt="jpchacond"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=jpchacond&show_icons=true&locale=en"
-    alt="jpchacond"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jpchacond&"
     alt="jpchacond"
   />
 </p>
